@@ -1,2 +1,3 @@
 ﻿@echo off
+chcp 65001 >nul
 call "%~dp0GENERATE.bat" "d9XCyhjo4JhkHF1d" "en" "miles-en-us"
