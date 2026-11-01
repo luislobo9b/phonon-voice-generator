@@ -46,3 +46,8 @@ Projeto que facilita o uso da voz de IA **Phonon 40M**, fornecendo scripts `.bat
 > A lista completa de vozes (incluindo outros idiomas e personagens) está em [`voices.txt`](./voices.txt).
 
 Leia os dois arquivos acima para instalar e começar a usar.
+
+## Links úteis
+
+- [Phonon TTS in Node.js — Micdrop](https://micdrop.dev/docs/ai-integration/provided-integrations/phonon)
+- [Phonon Voices — Gradium (Hugging Face)](https://huggingface.co/gradium/phonon-voices)
