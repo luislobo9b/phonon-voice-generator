@@ -20,6 +20,10 @@ if not defined NAME (
     goto fim
 )
 
+REM Gerar timestamp atual (yyyyMMddHHmmss)
+for /f "delims=" %%T in ('powershell -NoProfile -Command "Get-Date -Format yyyyMMddHHmmss"') do set "TS=%%T"
+if defined TS set "NAME=%NAME%-!TS!"
+
 cd /d "%~dp0"
 
 if not exist ".\outputs" mkdir ".\outputs"
