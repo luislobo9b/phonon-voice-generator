@@ -1,3 +1,7 @@
+# Exemplo de instalação (youtube)
+
+[![Vozes realistas PT-BR / EN-US com IA local grátis (Phonon-40m tutorial passo a passo)](https://img.youtube.com/vi/DnLWIxWUAjc/maxresdefault.jpg)](https://www.youtube.com/watch?v=DnLWIxWUAjc)
+
 # Phonon 40M — Estrutura de uso simplificada
 
 Projeto que facilita o uso da voz de IA **Phonon 40M**, fornecendo scripts `.bat` prontos para gerar áudios a partir de texto, com múltiplas vozes e idiomas.
