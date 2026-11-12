@@ -1,3 +1,7 @@
+# Fluxo de conversação
+
+![Fluxo de conversação](docs/fluxo-de-conversacao.webp)
+
 # Exemplo de instalação (youtube)
 
 [![Vozes realistas PT-BR / EN-US com IA local grátis (Phonon-40m tutorial passo a passo)](https://img.youtube.com/vi/DnLWIxWUAjc/maxresdefault.jpg)](https://www.youtube.com/watch?v=DnLWIxWUAjc)
